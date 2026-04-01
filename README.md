@@ -2,7 +2,8 @@ Chemical Engineer | PhD candidate
 Optimization • Machine Learning • Dynamic Modeling
 
 ## Interests
-- Process optimization 
+- Process optimization
+- NLP / MINLP 
 - Membrane reactors
 - Hybrid modeling (physics + ML)
 
